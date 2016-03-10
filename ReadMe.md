@@ -5,5 +5,6 @@ I needed this to work on iOS, so unlike the other addons I've seen around, the m
 
 ![ofxImageMask screenshot](http://farm9.staticflickr.com/8020/7591889160_066fa31838.jpg)
 
-
-
+#tested 
+tested oF 0.9.3 in OSX
+xcodeProject added
